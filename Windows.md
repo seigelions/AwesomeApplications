@@ -1,6 +1,6 @@
 # 下载工具
 
-## Free Download Manager
+## Free Download Manager (Windows + macOS)
 支持BT等主流下载方式
 
 [官网](https://www.freedownloadmanager.org)
